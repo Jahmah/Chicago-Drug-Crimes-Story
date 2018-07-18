@@ -1,0 +1,9 @@
+# Config keys
+config.py
+
+# Jupyter file
+Chicago_crimes_challenge.ipynb
+.ipynb_checkpoints
+
+# Data
+crimes-in-chicago.zip
