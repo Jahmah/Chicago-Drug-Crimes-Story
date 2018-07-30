@@ -4,6 +4,7 @@ config.py
 # Jupyter file
 Chicago_crimes_challenge.ipynb
 .ipynb_checkpoints
+ChicagoDrugCrimes_fullscript.ipynb
 
 # Data
 crimes-in-chicago.zip
