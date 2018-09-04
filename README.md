@@ -24,6 +24,11 @@ Jupyter Noteboook
 The Jupyter notebook has some map visualizations that require javascript which is unsupported on github when embeded in notebooks.
 
 
+## Authors
+
+Matt Arbos   Stephanie YB  Michael Ammah
+
+
 ## Acknowledgments
 
 * Hat tip to Rowan Langford for inspiration and mentoring
