@@ -26,7 +26,9 @@ The Jupyter notebook has some map visualizations that require javascript which i
 
 ## Authors
 
-Matt Arbos   Stephanie YB  Michael Ammah
+Matt Arbos   
+Stephanie YB  
+Michael Ammah
 
 
 ## Acknowledgments
